@@ -1,2 +1,2 @@
 # MI5073
-Planificación Minera Universidad de Chile
+Mine planning repository for teaching and learning purposes at the University of Chile
