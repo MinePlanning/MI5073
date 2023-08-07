@@ -42,6 +42,7 @@ Welcome to the Software Tutorial!
 [Continue with the third topic, following a similar structure as previous chapters.]
 
 ## Conclusion
+![Alt Text](https://github.com/username/repository-name/raw/main/path/to/image.png)
 
 [Summarize the tutorial and highlight key takeaways.]
 
