@@ -42,7 +42,7 @@ Welcome to the Software Tutorial!
 [Continue with the third topic, following a similar structure as previous chapters.]
 
 ## Conclusion
-![Alt Text](https://github.com/username/repository-name/raw/main/path/to/image.png)
+![Alt Text](https://github.com/username/repository-name/raw/main/path/to/image.png](https://github.com/MinePlanning/MI5073/blob/master/bpit_alpha_pushbacks.JPG)
 
 [Summarize the tutorial and highlight key takeaways.]
 
